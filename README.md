@@ -1,4 +1,14 @@
-reco-mongo-apilts
+Symfony2 + MongoDB + Oauth Server
 =================
 
-A Symfony project created on April 18, 2017, 4:19 pm.
+This repo includes a starter pack for rest apis secured with oauth.
+
+Included Bundles
+-
+- FOSUserBundle
+- FOSOAuthServerBundle
+- JMSSerializerBundle
+- NelmioApiDocBundle
+- DoctrineMongoDBBundle
+
+Also included Alcaeus mongo-php-adapter.
