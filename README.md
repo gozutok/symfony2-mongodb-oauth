@@ -16,8 +16,6 @@ Also included Alcaeus mongo-php-adapter.
 # How-to use
 - clone repo
 - composer install
-- add this parameters.yml 
-    - mongodb_server: "mongodb://localhost:27017"
 - set an emaill address to mailer_user in parameters.yml
 - add users from cli with **php app/console fos:user:create**
 - add clients from {base_url}/client/new
